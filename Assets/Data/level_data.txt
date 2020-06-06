@@ -1,0 +1,7 @@
+# 		FLOOR 		HOLE 			HEIGHT							CAMERA
+# TIME 	SPEED 	MIN 	MAX 	MIN 	MAX 	MIN 	MAX		MIN		MAX
+0.0 	5.0  	8 		10 		1		2 		0 		0		15		20
+10.0 	8.0  	9 		13 		2 		3 		0 		1		13		18
+30.0 	10.0  	12 		16 		3 		4 		-2 		0		11		16
+50.0 	13.0 	18 		20 		5 		6 		-1 		2		8		13
+60.0 	15.0 	12 		22 		6 		7 		-2 		2		5		10
